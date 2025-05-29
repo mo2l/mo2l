@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mo2l
-- 👀 I’m interested in PHP, Clean Code, Quality Code
+- Senior Software Engineer @ datrycs.com
+- 👀 I’m interested in PHP, Clean Code, Quality Code and Developer Experience
 - 📌 Located somewhere in the middle of Germany
 
 
